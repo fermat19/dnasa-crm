@@ -1,2556 +1,402 @@
-[26-Dec-2021 16:17:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:17:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:17:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:17:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:17:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:18:43 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:18:43 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:18:43 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:18:43 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:18:43 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:19:06 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:19:06 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:19:06 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:19:06 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:19:06 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:20:45 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:20:45 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:20:45 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:20:45 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:20:45 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:22:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:22:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:22:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:22:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:22:53 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:22:53 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:22:53 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:22:53 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:23:07 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:23:07 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:23:07 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:23:07 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:04 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:04 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:04 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:04 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:09 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:09 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:09 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:09 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:10 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:10 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:10 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:10 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:12 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:12 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:12 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:12 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:27 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:27 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:27 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:27 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:28 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:28 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:28 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:28 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:28 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:28 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:28 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:28 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:30 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:30 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:30 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:38:30 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:41:05 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:41:05 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:41:05 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:41:05 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:41:50 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:41:50 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:41:50 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:41:50 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:44:14 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:44:14 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:44:14 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:44:14 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:44:37 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:44:37 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:44:37 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:44:37 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:44:45 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:44:45 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:44:45 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:44:45 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:44:53 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:44:58 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:44:58 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:44:58 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:44:58 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:45:36 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:45:36 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:45:36 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:45:36 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:46:16 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:46:16 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:46:16 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:46:16 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:47:17 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:47:17 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:47:17 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:47:17 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:48:08 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:48:08 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:48:08 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:48:08 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:48:13 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:48:13 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:48:13 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:48:13 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:48:13 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:49:44 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:49:44 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:49:44 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:49:44 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:50:18 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:50:18 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:50:18 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:50:18 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:50:45 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:50:45 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:50:45 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:50:45 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:52:49 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:52:49 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:52:49 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:52:49 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:53:06 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:53:06 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:53:06 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:53:06 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:53:19 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:53:19 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:53:19 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:53:19 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:55:22 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:55:22 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:55:22 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:55:22 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:56:18 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:56:18 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:56:18 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:56:18 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:57:53 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:57:53 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:57:53 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 16:57:53 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:00:05 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:00:06 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:00:06 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:00:06 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:01:25 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:01:25 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:01:25 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:01:25 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:04:25 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:04:25 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:04:25 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:04:25 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:14:25 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:14:25 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:14:25 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:14:25 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:17:22 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:17:22 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:17:22 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:17:22 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:19:47 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:19:47 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:19:47 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:19:47 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:21:58 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:21:58 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:21:58 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:21:58 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:22:10 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:22:10 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:22:10 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:22:10 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:23:30 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:23:30 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:23:30 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:23:30 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:25:10 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:25:10 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:25:10 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:25:10 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:26:07 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:26:07 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:26:07 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:26:07 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:26:35 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:26:35 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:26:35 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:26:35 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:27:14 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:27:14 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:27:14 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:27:14 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:29:34 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:29:34 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:29:34 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:29:34 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:58:54 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:58:54 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:58:54 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 17:58:54 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 18:00:31 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 18:00:31 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 18:00:31 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 18:00:31 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:21:54 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:21:54 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:21:54 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:21:54 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:09 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:09 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:09 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:09 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:11 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:12 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:12 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:12 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:12 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:38 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:38 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:38 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:38 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:39 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:39 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:39 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:25:39 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:27:55 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:27:55 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:27:55 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:27:55 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:33:32 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:33:32 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:33:32 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 19:33:32 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:03:48 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:03:48 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:03:48 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:03:48 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:04:42 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:04:42 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:04:42 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:04:42 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:06:01 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:06:01 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:06:01 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:06:01 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:09:39 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:09:39 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:09:39 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:09:39 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:09:40 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:09:40 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:09:40 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:09:40 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:09:41 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:09:41 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:09:41 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:09:41 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:09:41 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:09:41 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:09:41 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:09:41 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:10:07 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:10:07 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:10:07 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:10:07 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:10:07 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:10:07 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:10:07 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:10:07 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:10:08 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:10:08 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:10:08 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:10:08 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:10:58 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:10:58 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:10:58 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:11:12 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:11:12 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:11:12 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:11:50 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:11:50 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:11:50 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:13:45 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:13:45 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:13:45 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:14:25 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:14:25 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:14:25 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:14:26 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:14:26 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:14:26 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:17:00 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:17:00 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:17:00 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:17:12 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:17:12 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:17:12 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:18:37 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:18:37 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:18:37 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:18:55 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:18:55 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:18:55 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:19:23 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:19:23 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:19:23 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:20:15 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:20:15 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:20:15 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:21:42 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:21:42 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:21:42 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:24:16 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:24:16 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:24:16 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:25:00 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:25:00 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:25:00 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:33:53 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:33:53 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:33:53 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:35:01 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:35:01 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:35:01 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:36:03 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:36:03 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:36:03 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:37:03 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:37:03 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:37:03 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:37:46 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:37:46 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:37:46 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:38:23 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:38:23 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:38:23 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:40:42 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:40:42 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:40:42 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:46:34 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:46:34 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:46:34 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:48:10 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:48:10 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:48:10 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:49:22 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:49:22 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:49:22 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:50:47 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:50:47 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:50:47 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:52:29 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:52:29 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:52:29 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:53:08 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:53:08 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[26-Dec-2021 22:53:08 America/Panama] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /srv/http/crm001/core/errors.php:81
-Stack trace:
-#0 /srv/http/crm001/core/errors.php(81): array_map()
-#1 [internal function]: Core\Errors::exceptionHandler()
-#2 {main}
-  thrown in /srv/http/crm001/core/errors.php on line 81
-[27-Dec-2021 12:04:59 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+[28-Dec-2021 13:59:57 America/Panama] #Error Using $this when not in object context(/var/www/html/crm001/core/models.php): 43
+	 #0 /var/www/html/crm001/app/models/usuarios.php(17): Core\Models::consulta()
+#1 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 (#0 /var/www/html/crm001/app/models/usuarios.php(17): consulta
+	 #0 /var/www/html/crm001/app/models/usuarios.php(17): Core\Models::consulta()
+#1 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:04:59 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#1 /var/www/html/crm001/app/controllers/home.php(8): read_one
+	 #0 /var/www/html/crm001/app/models/usuarios.php(17): Core\Models::consulta()
+#1 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:04:59 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#2 (): index
+	 #0 /var/www/html/crm001/app/models/usuarios.php(17): Core\Models::consulta()
+#1 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:08:51 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 /var/www/html/crm001/app/models/usuarios.php(17): Core\Models::consulta()
+#1 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:08:51 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#4 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/app/models/usuarios.php(17): Core\Models::consulta()
+#1 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:08:51 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+	-------------------------------------------------------------------------------------------------------------------------------#5{main})
+[28-Dec-2021 14:01:03 America/Panama] #Error Call to undefined function Core\Models()(/var/www/html/crm001/app/models/usuarios.php): 17
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
+	 (#0 /var/www/html/crm001/app/controllers/home.php(8): read_one
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:11:50 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#1 (): index
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:11:50 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:11:50 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#3 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:13:25 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+	-------------------------------------------------------------------------------------------------------------------------------#4{main})
+[28-Dec-2021 14:01:04 America/Panama] #Error Call to undefined function Core\Models()(/var/www/html/crm001/app/models/usuarios.php): 17
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
+	 (#0 /var/www/html/crm001/app/controllers/home.php(8): read_one
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:13:25 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#1 (): index
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:13:25 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:16:01 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#3 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:16:01 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+	-------------------------------------------------------------------------------------------------------------------------------#4{main})
+[28-Dec-2021 14:01:18 America/Panama] #Error Call to undefined function App\Models\Core\Models()(/var/www/html/crm001/app/models/usuarios.php): 17
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
+	 (#0 /var/www/html/crm001/app/controllers/home.php(8): read_one
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:16:01 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#1 (): index
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:16:57 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:16:57 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#3 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:16:57 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+	-------------------------------------------------------------------------------------------------------------------------------#4{main})
+[28-Dec-2021 14:01:34 America/Panama] #Error Call to undefined function Core\Models()(/var/www/html/crm001/app/models/usuarios.php): 17
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
+	 (#0 /var/www/html/crm001/app/controllers/home.php(8): read_one
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:28:07 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#1 (): index
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:28:07 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 12:28:07 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#3 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 13:14:16 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+	-------------------------------------------------------------------------------------------------------------------------------#4{main})
+[28-Dec-2021 14:01:40 America/Panama] #ParseError syntax error, unexpected '->' (T_OBJECT_OPERATOR)(/var/www/html/crm001/app/models/usuarios.php): 17
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 (#0 (): Core\{closure}
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 13:14:16 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 13:14:16 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#2 (): index
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 13:14:59 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 13:14:59 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+#4 /var/www/html/crm001/index.php(12): start
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
-[27-Dec-2021 13:14:59 America/Panama] #Exception Controlador <strong>img</strong> no existe(/var/www/html/crm001/core/routers.php): 41
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
-	 (#0 /var/www/html/crm001/index.php(11): start
-	 #0 /var/www/html/crm001/index.php(11): Core\Routers::start()
-#1 {main} 
+	-------------------------------------------------------------------------------------------------------------------------------#5{main})
+[28-Dec-2021 14:01:59 America/Panama] #Error Using $this when not in object context(/var/www/html/crm001/core/models.php): 43
+	 #0 /var/www/html/crm001/app/models/usuarios.php(17): Core\Models::consulta()
+#1 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 (#0 /var/www/html/crm001/app/models/usuarios.php(17): consulta
+	 #0 /var/www/html/crm001/app/models/usuarios.php(17): Core\Models::consulta()
+#1 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
 	 ()
-	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+#1 /var/www/html/crm001/app/controllers/home.php(8): read_one
+	 #0 /var/www/html/crm001/app/models/usuarios.php(17): Core\Models::consulta()
+#1 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#2 (): index
+	 #0 /var/www/html/crm001/app/models/usuarios.php(17): Core\Models::consulta()
+#1 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 /var/www/html/crm001/app/models/usuarios.php(17): Core\Models::consulta()
+#1 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#4 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/app/models/usuarios.php(17): Core\Models::consulta()
+#1 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#5{main})
+[28-Dec-2021 14:02:00 America/Panama] #Error Using $this when not in object context(/var/www/html/crm001/core/models.php): 43
+	 #0 /var/www/html/crm001/app/models/usuarios.php(17): Core\Models::consulta()
+#1 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 (#0 /var/www/html/crm001/app/models/usuarios.php(17): consulta
+	 #0 /var/www/html/crm001/app/models/usuarios.php(17): Core\Models::consulta()
+#1 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#1 /var/www/html/crm001/app/controllers/home.php(8): read_one
+	 #0 /var/www/html/crm001/app/models/usuarios.php(17): Core\Models::consulta()
+#1 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#2 (): index
+	 #0 /var/www/html/crm001/app/models/usuarios.php(17): Core\Models::consulta()
+#1 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 /var/www/html/crm001/app/models/usuarios.php(17): Core\Models::consulta()
+#1 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#4 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/app/models/usuarios.php(17): Core\Models::consulta()
+#1 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#5{main})
+[28-Dec-2021 14:29:55 America/Panama] #ArgumentCountError Too few arguments to function App\Models\Usuarios::read_one(), 0 passed in /var/www/html/crm001/app/controllers/home.php on line 8 and exactly 1 expected(/var/www/html/crm001/app/models/usuarios.php): 45
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
+	 (#0 /var/www/html/crm001/app/controllers/home.php(8): read_one
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
+	 ()
+#1 (): index
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
+	 ()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
+	 ()
+#3 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#4{main})
+[28-Dec-2021 14:29:56 America/Panama] #ArgumentCountError Too few arguments to function App\Models\Usuarios::read_one(), 0 passed in /var/www/html/crm001/app/controllers/home.php on line 8 and exactly 1 expected(/var/www/html/crm001/app/models/usuarios.php): 45
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
+	 (#0 /var/www/html/crm001/app/controllers/home.php(8): read_one
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
+	 ()
+#1 (): index
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
+	 ()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
+	 ()
+#3 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/app/controllers/home.php(8): App\Models\Usuarios::read_one()
+#1 [internal function]: App\Controllers\Home::index()
+#2 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#3 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#4 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#4{main})

@@ -60,7 +60,8 @@ define('memory_limit', '-1');
 const DATABASE = [
     'driver'   => 'mysql',
     'hostname' => 'localhost',
-    'database' => 'densadb',
+    'database' => 'dnasacrm',
     'username' => 'root',
     'password' => 'hola2020',
 ];
+

@@ -1,6 +1,7 @@
 <?php
 
 require_once( realpath(__DIR__) . DIRECTORY_SEPARATOR . 'config' . DIRECTORY_SEPARATOR . 'config.php');
+require_once( realpath(__DIR__) . DIRECTORY_SEPARATOR . 'config' . DIRECTORY_SEPARATOR . 'menu.php');
 require_once(ROOT .'core' . DS . 'autoload.php');
 
 Core\Autoload::run();

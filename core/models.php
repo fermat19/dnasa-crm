@@ -30,7 +30,7 @@ class Models {
          header('Content-Type: appliction/json');
          echo json_encode($result);
          die();
-      }
+      }https://www.php.net/manual/es/pdo.prepared-statements.php                                                            
    }
 
    /**
