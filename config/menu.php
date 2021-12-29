@@ -44,5 +44,48 @@ const MENU = [
             ],
         ]
     ],
+    
+    [
+        "titulo" => "Ajustes",
+        "index" => "",
+        "link" => "",
+        "icono" => "fas fa-cogs",
+        "submenu" => [
+            [
+                "index" => "",
+                "titulo" => "Perfiles",
+                "link" => "ajustes/perfiles"
+            ],
+            [
+                "index" => "",
+                "titulo" => "Permisos",
+                "link" => "ajustes/permisos"
+            ],
+            [
+                "index" => "",
+                "titulo" => "Roles",
+                "link" => "ajustes/roles"
+            ],
+        ]
+    ],
+    
+     [
+        "titulo" => "Usuarios",
+        "index" => "",
+        "link" => "",
+        "icono" => "fas fa-users",
+        "submenu" => [
+            [
+                "index" => "",
+                "titulo" => "Listar",
+                "link" => "usuarios/index"
+            ],
+            [
+                "index" => "",
+                "titulo" => "Nuevo Usuario",
+                "link" => "usuarios/nuevo"
+            ],
+        ]
+    ],
 
 ];

@@ -48,7 +48,9 @@
                     <textarea name="notes" id="notes" class="form-control"></textarea>
                 </div>
                 <div class="col-md-4"></div>
-                <div class="col-md-4"></div>
+                <div class="col-md-4 align-self-center">
+                    <button type="button" class="btn btn-primary btn-block"><i class="far fa-paper-plane"></i> Enviar</button>
+                </div>
             </div>
         </form>
     </div>

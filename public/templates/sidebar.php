@@ -32,7 +32,7 @@
             echo "<div id='" . MENU[$i]['titulo'] . "' class='collapse' aria-labelledby='headingTwo' data-parent='#accordionSidebar'>";
             echo "<div class='bg-white py-2 collapse-inner'>";
             for ($j = 0; $j < count($subm); $j++) {
-                echo "<a class='collapse-item' href='" . $subm[$j]['link'] . "'>" . $subm[$j]['titulo'] . "</a>";
+                echo "<a class='collapse-item' href='" . URI . $subm[$j]['link'] . "'>" . $subm[$j]['titulo'] . "</a>";
             }
             echo "</div>";
             echo "</div>";

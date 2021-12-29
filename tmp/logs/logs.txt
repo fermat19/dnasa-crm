@@ -400,3 +400,43 @@
 #4 {main} 
 	 ()
 	-------------------------------------------------------------------------------------------------------------------------------#4{main})
+[29-Dec-2021 09:11:13 America/Panama] #Exception Metodo ajustes no encontrado dentro de el controlador registros(/var/www/html/crm001/core/routers.php): 36
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[29-Dec-2021 09:11:25 America/Panama] #Exception Metodo ajustes no encontrado dentro de el controlador registros(/var/www/html/crm001/core/routers.php): 36
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[29-Dec-2021 09:11:57 America/Panama] #Exception Metodo ajustes no encontrado dentro de el controlador registros(/var/www/html/crm001/core/routers.php): 36
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[29-Dec-2021 09:12:42 America/Panama] #Exception Metodo ajustes no encontrado dentro de el controlador registros(/var/www/html/crm001/core/routers.php): 36
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[29-Dec-2021 09:12:58 America/Panama] #Exception Metodo ajustes no encontrado dentro de el controlador registros(/var/www/html/crm001/core/routers.php): 36
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
