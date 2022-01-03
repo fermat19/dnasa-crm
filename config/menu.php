@@ -66,6 +66,17 @@ const MENU = [
                 "titulo" => "Roles",
                 "link" => "ajustes/roles"
             ],
+            [
+                "index" => "",
+                "titulo" => "Tipo Consulta",
+                "link" => "ajustes/tipo_consulta"
+            ],
+            [
+                "index" => "",
+                "titulo" => "Tipo Contacto",
+                "link" => "ajustes/tipo_contacto"
+            ],
+            
         ]
     ],
     

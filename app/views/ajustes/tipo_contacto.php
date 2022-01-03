@@ -1,5 +1,5 @@
 <div class="d-sm-flex align-items-center justify-content-between mb-4">
-    <h1 class="h3 mb-0 text-gray-800">Perfiles</h1>
+    <h1 class="h3 mb-0 text-gray-800">Tipo de Contactos</h1>
 </div>
 <div class="row">
     <div class="col-md-8">
@@ -10,7 +10,7 @@
                         <thead>
                             <tr>
                                 <th>Id</th>
-                                <th>Perfiles</th>
+                                <th>Contacto</th>
                                 <th>Acciones</th>
                             </tr>
                         </thead>
@@ -24,12 +24,12 @@
             <div class="card-body">
                 <form action="action">
                     <div class="form-group">
-                        <label for="id_perfil">Index</label>
-                        <input type="text" class="form-control" id="id_perfil">
+                        <label for="id_contacto">Index</label>
+                        <input type="text" class="form-control" id="id_contacto">
                     </div>
                     <div class="form-group">
-                        <label for="perfil">Perfil</label>
-                        <input type="text" class="form-control" id="perfil">
+                        <label for="contacto">Tipo de contacto</label>
+                        <input type="text" class="form-control" id="contacto">
                     </div>
                     <div class="form-group">
                         <button type="button" class="btn btn-primary btn-lg btn-block">Procesar</button>

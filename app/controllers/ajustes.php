@@ -24,4 +24,12 @@ class Ajustes {
         \Core\Engines::render();
     }
     
+    public static function tipo_consulta() {
+        \Core\Engines::render();
+    }
+    
+    public static function tipo_contacto() {
+        \Core\Engines::render();
+    }
+    
 }

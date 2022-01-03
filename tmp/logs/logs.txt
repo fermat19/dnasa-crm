@@ -440,3 +440,63 @@
 #1 {main} 
 	 ()
 	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[30-Dec-2021 09:53:25 America/Panama] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) in /var/www/html/crm001/config/menu.php on line 83
+[30-Dec-2021 09:53:30 America/Panama] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) in /var/www/html/crm001/config/menu.php on line 83
+[30-Dec-2021 09:53:31 America/Panama] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) in /var/www/html/crm001/config/menu.php on line 83
+[30-Dec-2021 09:53:31 America/Panama] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) in /var/www/html/crm001/config/menu.php on line 83
+[03-Jan-2022 06:59:34 America/Panama] #Exception Metodo index.html no encontrado dentro de el controlador registros(/var/www/html/crm001/core/routers.php): 24
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 10:00:31 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 10:07:14 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 10:08:04 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 10:11:03 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 10:11:47 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 10:13:17 America/Panama] #Exception Metodo index.html no encontrado dentro de el controlador registros(/var/www/html/crm001/core/routers.php): 24
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
