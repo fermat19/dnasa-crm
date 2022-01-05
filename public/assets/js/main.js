@@ -17,3 +17,6 @@ function selectToastr(type, message, title) {
             break;
     }
 }
+
+
+ 

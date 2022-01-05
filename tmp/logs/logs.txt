@@ -500,3 +500,1739 @@
 #1 {main} 
 	 ()
 	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 10:35:19 America/Panama] #Exception Controlador <strong>rest</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 10:35:35 America/Panama] #Exception Controlador <strong>rest</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 12:05:21 America/Panama] #Exception Metodo index no encontrado dentro de el controlador ajax(/var/www/html/crm001/core/routers.php): 24
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 12:06:02 America/Panama] #Exception Metodo index no encontrado dentro de el controlador ajax(/var/www/html/crm001/core/routers.php): 24
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 12:06:03 America/Panama] #Exception Metodo index no encontrado dentro de el controlador ajax(/var/www/html/crm001/core/routers.php): 24
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 12:06:03 America/Panama] #Exception Metodo index no encontrado dentro de el controlador ajax(/var/www/html/crm001/core/routers.php): 24
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 12:06:04 America/Panama] #Exception Metodo index no encontrado dentro de el controlador ajax(/var/www/html/crm001/core/routers.php): 24
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 12:06:04 America/Panama] #Exception Metodo index no encontrado dentro de el controlador ajax(/var/www/html/crm001/core/routers.php): 24
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 12:06:04 America/Panama] #Exception Metodo index no encontrado dentro de el controlador ajax(/var/www/html/crm001/core/routers.php): 24
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 12:06:19 America/Panama] #ArgumentCountError Too few arguments to function App\Controllers\Ajax::cfgarea(), 0 passed and exactly 1 expected(/var/www/html/crm001/app/controllers/ajax.php): 19
+	 #0 [internal function]: App\Controllers\Ajax::cfgarea()
+#1 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#2 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#3 {main} 
+	 (#0 (): cfgarea
+	 #0 [internal function]: App\Controllers\Ajax::cfgarea()
+#1 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#2 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#3 {main} 
+	 ()
+#1 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 [internal function]: App\Controllers\Ajax::cfgarea()
+#1 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#2 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#3 {main} 
+	 ()
+#2 /var/www/html/crm001/index.php(12): start
+	 #0 [internal function]: App\Controllers\Ajax::cfgarea()
+#1 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#2 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#3 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#3{main})
+[03-Jan-2022 12:10:50 America/Panama] #Exception /var/www/html/crm001/app/models/usuarios.php(/var/www/html/crm001/core/autoload.php): 14
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 (#0 (): Core\{closure}
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#2 (): index
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#4 /var/www/html/crm001/index.php(12): start
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#5{main})
+[03-Jan-2022 12:19:54 America/Panama] #Exception /var/www/html/crm001/app/models/usuarios.php(/var/www/html/crm001/core/autoload.php): 14
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 (#0 (): Core\{closure}
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#2 (): index
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#4 /var/www/html/crm001/index.php(12): start
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#5{main})
+[03-Jan-2022 12:19:56 America/Panama] #Exception /var/www/html/crm001/app/models/usuarios.php(/var/www/html/crm001/core/autoload.php): 14
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 (#0 (): Core\{closure}
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#2 (): index
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#4 /var/www/html/crm001/index.php(12): start
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#5{main})
+[03-Jan-2022 12:19:57 America/Panama] #Exception /var/www/html/crm001/app/models/usuarios.php(/var/www/html/crm001/core/autoload.php): 14
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 (#0 (): Core\{closure}
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#2 (): index
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#4 /var/www/html/crm001/index.php(12): start
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#5{main})
+[03-Jan-2022 12:19:58 America/Panama] #Exception /var/www/html/crm001/app/models/usuarios.php(/var/www/html/crm001/core/autoload.php): 14
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 (#0 (): Core\{closure}
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#2 (): index
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#4 /var/www/html/crm001/index.php(12): start
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#5{main})
+[03-Jan-2022 12:20:00 America/Panama] #Exception /var/www/html/crm001/app/models/usuarios.php(/var/www/html/crm001/core/autoload.php): 14
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 (#0 (): Core\{closure}
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#2 (): index
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#4 /var/www/html/crm001/index.php(12): start
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#5{main})
+[03-Jan-2022 12:20:03 America/Panama] #Exception /var/www/html/crm001/app/models/usuarios.php(/var/www/html/crm001/core/autoload.php): 14
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 (#0 (): Core\{closure}
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#2 (): index
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#4 /var/www/html/crm001/index.php(12): start
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#5{main})
+[03-Jan-2022 12:21:05 America/Panama] #Exception /var/www/html/crm001/app/models/usuarios.php(/var/www/html/crm001/core/autoload.php): 14
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 (#0 (): Core\{closure}
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#2 (): index
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#4 /var/www/html/crm001/index.php(12): start
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#5{main})
+[03-Jan-2022 12:21:08 America/Panama] #Exception /var/www/html/crm001/app/models/usuarios.php(/var/www/html/crm001/core/autoload.php): 14
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 (#0 (): Core\{closure}
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#2 (): index
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+#4 /var/www/html/crm001/index.php(12): start
+	 #0 [internal function]: Core\Autoload::Core\{closure}()
+#1 /var/www/html/crm001/app/controllers/home.php(8): spl_autoload_call()
+#2 [internal function]: App\Controllers\Home::index()
+#3 /var/www/html/crm001/core/routers.php(21): call_user_func()
+#4 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#5 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#5{main})
+[03-Jan-2022 14:05:28 America/Panama] #Exception Metodo acciones no encontrado dentro de el controlador ajax(/var/www/html/crm001/core/routers.php): 36
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 14:05:31 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 14:06:19 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 14:06:19 America/Panama] #Exception Metodo acciones no encontrado dentro de el controlador ajax(/var/www/html/crm001/core/routers.php): 36
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 14:07:02 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 14:07:59 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 14:09:22 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 14:09:35 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 14:10:06 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[03-Jan-2022 14:10:13 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:23:58 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:25:57 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:27:18 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:27:50 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:32:29 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:33:37 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:36:51 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:37:01 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:37:33 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:38:19 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:38:31 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:38:36 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:38:36 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:38:37 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:38:38 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:38:39 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:38:56 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:39:27 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:39:46 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:40:37 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:40:54 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:41:36 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:41:45 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:41:46 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:43:00 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:43:03 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:43:05 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:43:22 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:44:39 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:44:55 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:44:57 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:45:02 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:45:16 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:45:38 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:45:42 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:47:42 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:47:48 America/Panama] #Exception Metodo data no encontrado dentro de el controlador registros(/var/www/html/crm001/core/routers.php): 24
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:47:49 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:47:56 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:48:35 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:48:38 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:48:45 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 06:53:07 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:09:51 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:10:18 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:10:22 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:16:29 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:17:14 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:17:39 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:18:02 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:19:39 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:19:49 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:20:30 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:22:12 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:22:18 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:23:12 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:23:45 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:24:19 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:26:36 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:26:52 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:27:38 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:27:43 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:28:34 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:29:32 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:30:31 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:32:00 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:33:31 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:35:14 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:35:38 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:36:34 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:37:16 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:38:36 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:38:56 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:39:17 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:39:21 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:39:38 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:41:23 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:41:38 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:42:51 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:42:55 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:43:03 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:43:24 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 07:44:11 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 09:15:06 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 09:33:31 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 09:37:39 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 09:37:41 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 09:37:41 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 09:40:18 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 09:42:51 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 09:45:56 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 09:47:29 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 10:02:10 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 10:31:47 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 10:32:40 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 10:32:41 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 10:35:58 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 10:43:42 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 10:43:51 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 10:48:10 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 10:48:37 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 10:49:10 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 10:49:53 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 10:53:57 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 10:55:37 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 10:59:49 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:00:07 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:02:08 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:03:18 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:04:59 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:07:28 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:08:41 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:09:44 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:10:32 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:12:10 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:12:14 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:12:30 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:13:11 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:13:20 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:13:53 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:14:32 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:15:49 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:16:19 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:17:31 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:18:10 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:19:20 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:21:11 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:21:32 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:22:21 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:24:32 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:26:12 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 11:26:30 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 13:36:14 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 13:36:57 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 13:38:00 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 13:38:39 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 13:38:51 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 13:41:16 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 13:41:41 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 13:46:36 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})
+[04-Jan-2022 13:46:43 America/Panama] #Exception Controlador <strong>public</strong> no existe(/var/www/html/crm001/core/routers.php): 41
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 (#0 /var/www/html/crm001/index.php(12): start
+	 #0 /var/www/html/crm001/index.php(12): Core\Routers::start()
+#1 {main} 
+	 ()
+	-------------------------------------------------------------------------------------------------------------------------------#1{main})

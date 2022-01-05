@@ -47,12 +47,15 @@ n al Asegurado</span>
 
 <!-- Page level custom scripts -->
 <script src="<?php echo URI.'public/assets/js/demo/datatables-demo.js'?>"></script>
-<script src="<?php echo URI.'public/assets/vendor/cronometro/crono.js'?>"></script>
+<!-- <script src="<?php echo URI.'public/assets/vendor/cronometro/crono.js'?>"></script> -->
 <script src="<?php echo URI.'public/assets/vendor/cronometro/timer.js'?>"></script>
 
 <script src="<?php echo URI.'public/assets/vendor/toastr/toastr.min.js'?>"></script>
 <script src="<?php echo URI.'public/assets/js/main.js'?>"></script>
-
+<script>
+    c = new Crono();
+    c.ejecutar()
+</script>
 
 </body>
 
